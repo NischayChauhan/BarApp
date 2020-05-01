@@ -21,11 +21,11 @@ This app can be deployed on play store.
 * JAVA
 
 ## View on phone
-<img src="https://github.com/NischayChauhan/BarApp/blob/master/phone_1.png" width="48">
+<img src="https://github.com/NischayChauhan/BarApp/blob/master/phone_1.png" width="500">
+<img src="https://github.com/NischayChauhan/BarApp/blob/master/phone_2.png" width="500">
 
-![](https://github.com/NischayChauhan/BarApp/blob/master/phone_2.png | width=100)
 ## View on tablet
-![img2](https://github.com/NischayChauhan/BarApp/blob/master/tab_output.png)
+<img src="https://github.com/NischayChauhan/BarApp/blob/master/tab_output.png" width="1000">
 
 ## Authors
 
