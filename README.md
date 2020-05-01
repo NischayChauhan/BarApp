@@ -11,7 +11,7 @@ What things you need to install the software and how to install them
 ```
 Android
   - Java
-
+```
 ## Deployment
 
 This app can be deployed on play store. 
