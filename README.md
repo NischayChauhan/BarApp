@@ -21,8 +21,8 @@ This app can be deployed on play store.
 * JAVA
 
 ## View on phone
-![img1](https://github.com/NischayChauhan/BarApp/blob/master/phone_1.png)
-![img1](https://github.com/NischayChauhan/BarApp/blob/master/phone_2.png)
+![img1](https://github.com/NischayChauhan/BarApp/blob/master/phone_1.png | width=100)
+![img1](https://github.com/NischayChauhan/BarApp/blob/master/phone_2.png | width=100)
 ## View on tablet
 ![img2](https://github.com/NischayChauhan/BarApp/blob/master/tab_output.png)
 
